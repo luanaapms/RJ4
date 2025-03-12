@@ -1,0 +1,23 @@
+{
+  "name": "rj4",
+  "version": "1.0.0",
+  "description": "Nessa atividade, você deve praticar a construção de módulos!\r ### Objetivos, parte 1\r No módulo desenvolvido deverão existir métodos construtores para cada tipo de objeto - tipo ES6.\r Deverá estar disponível em alguma plataforma de versionamento na web. Para cada atributo privado, metódos de acesso get e recuperar o valor em caixa alta e baixa. <br> <br>\r ### Objetivos, parte 2\r Um outro modulo deverá ser usado para importar o que foi criado. Neste módulo de teste, crie uma empresa e atribua a ela um endereço e pelo menos dois telefones, e crie cinco clientes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luanaapms/RJ4.git"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luanaapms/RJ4/issues"
+  },
+  "homepage": "https://github.com/luanaapms/RJ4#readme",
+  "dependencies": {
+    "modulorj4": "github:luanaapms/moduloRJ4"
+  }
+}
